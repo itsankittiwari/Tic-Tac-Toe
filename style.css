@@ -8,7 +8,7 @@
 .wrapper{
     width: 100vw;
     height: 100vh;
-    background-image: url(/assests/css-gradient.webp);
+    background-image: url(/css-gradient.webp);
     background-size: cover;
     background-position: center;
     display: grid;
